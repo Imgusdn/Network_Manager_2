@@ -1,10 +1,10 @@
 # Network_Manager_2
 ## 필기
-```
 아래 링크에서 기출문제 3년이상 공부
-전자문제집 CBT 문제풀기 PC 버전 : www.comcbt.com
-전자문제집 CBT 문제풀기 모바일 버전 : m.comcbt.com
-```
+
+1. `전자문제집 CBT 문제풀기 PC 버전` : www.comcbt.com
+2. `전자문제집 CBT 문제풀기 모바일 버전` : m.comcbt.com
+
 ## 실기
 ### 라우터
 `확인`
