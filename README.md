@@ -22,5 +22,4 @@ en - show flash - copy r s
 ```
 호스트 네임을 ICQA로 변경
 en - conf t - hostname ICQA - exit - copy r s
-
 ```
